@@ -1,0 +1,7 @@
+
+.hero__subtitle {
+display: none;
+visibility: visible;
+opacity: 0;
+height: 0;
+}

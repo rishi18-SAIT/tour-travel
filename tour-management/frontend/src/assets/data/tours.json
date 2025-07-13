@@ -1,0 +1,328 @@
+[
+  {
+    "title": "Westminister Bridge",
+    "city": "London",
+    "address": "Somewhere in London",
+    "distance": 300,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Bali, Indonesia",
+    "city": "Bali",
+    "address": "Somewhere in Indonesia",
+    "distance": 400,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": " Beautiful Snowy Mountains",
+    "city": "Bangkok",
+    "address": "Somewhere in Thailand",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Beautiful Sunrise, Thailand",
+    "city": "Phuket",
+    "address": "Somewhere in Thailand",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Nusa Pendia Bali, Indonesia",
+    "city": "Bali",
+    "address": "Somewhere in Indonesia",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Cherry Blossoms Spring",
+    "city": "Tokyo",
+    "address": "Somewhere in Japan",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Holmen Lofoten, France",
+    "city": "Paris",
+    "address": "Somewhere in France",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Snowy Mountains, Thailand",
+    "city": "Bangkok",
+    "address": "Somewhere in Thailand",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Jaflong, Sylhet",
+    "city": "Sylhet",
+    "address": "Somewhere in Sylhet",
+    "distance": 100,
+    "price": 99,
+    "maxGroupSize": 5,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": false
+  },
+  {
+    "title": "Cox's Bazar Sea Beach",
+    "city": "Chittagong",
+    "address": "Somewhere in Chittagong",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  },
+  {
+    "title": "Cox's Bazar Sea Beach",
+    "city": "Chittagong",
+    "address": "Somewhere in Chittagong",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  },
+  {
+    "title": "Taj Mahal, Agra",
+    "city": "Agra",
+    "address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh",
+    "distance": 250,
+    "price": 120,
+    "maxGroupSize": 10,
+    "desc": "Visit one of the Seven Wonders of the World, a symbol of eternal love.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img10.png",
+    "featured": true
+  },
+  {
+    "title": "Backwaters of Kerala",
+    "city": "Alleppey",
+    "address": "Houseboat Jetty, Alappuzha, Kerala",
+    "distance": 300,
+    "price": 110,
+    "maxGroupSize": 6,
+    "desc": "Relax on a traditional houseboat cruise through the lush backwaters.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img11.png",
+    "featured": true
+  },
+  {
+    "title": "Goa Beach Vibes",
+    "city": "Goa",
+    "address": "Calangute Beach, Goa",
+    "distance": 450,
+    "price": 99,
+    "maxGroupSize": 12,
+    "desc": "Experience sandy beaches, nightlife, and vibrant culture in Goa.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img12.png",
+    "featured": true
+  },
+  {
+    "title": "Himalayan Trek, Manali",
+    "city": "Manali",
+    "address": "Old Manali, Himachal Pradesh",
+    "distance": 600,
+    "price": 150,
+    "maxGroupSize": 8,
+    "desc": "A thrilling adventure through the scenic Himalayan ranges.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img22.png",
+    "featured": true
+  },
+  {
+    "title": "Desert Safari, Jaisalmer",
+    "city": "Jaisalmer",
+    "address": "Sam Sand Dunes, Rajasthan",
+    "distance": 700,
+    "price": 130,
+    "maxGroupSize": 10,
+    "desc": "Camel rides, sunset views, and Rajasthani folk performances.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img15.png",
+    "featured": true
+  },
+  {
+    "title": "Meghalaya Living Root Bridges",
+    "city": "Cherrapunji",
+    "address": "Nongriat Village, Meghalaya",
+    "distance": 500,
+    "price": 90,
+    "maxGroupSize": 6,
+    "desc": "Explore natural root bridges in the wettest place on Earth.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img16.png",
+    "featured": true
+  },
+  {
+    "title": "Rann of Kutch Festival",
+    "city": "Bhuj",
+    "address": "White Desert, Kutch, Gujarat",
+    "distance": 650,
+    "price": 140,
+    "maxGroupSize": 10,
+    "desc": "Witness the white desert under a full moon with cultural festivities.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img17.png",
+    "featured": true
+  },
+  {
+    "title": "Darjeeling Tea Gardens",
+    "city": "Darjeeling",
+    "address": "Happy Valley Tea Estate, Darjeeling",
+    "distance": 400,
+    "price": 85,
+    "maxGroupSize": 6,
+    "desc": "Enjoy breathtaking views and world-famous tea plantations.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img19.png",
+    "featured": false
+  },
+  {
+    "title": "Andaman Island Escape",
+    "city": "Port Blair",
+    "address": "Havelock Island, Andaman & Nicobar",
+    "distance": 1200,
+    "price": 200,
+    "maxGroupSize": 8,
+    "desc": "Crystal clear waters and serene beaches await you.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img21.png",
+    "featured": true
+  },
+  {
+    "title": "Sikkim Valley Retreat",
+    "city": "Gangtok",
+    "address": "MG Marg, Gangtok, Sikkim",
+    "distance": 550,
+    "price": 95,
+    "maxGroupSize": 7,
+    "desc": "Tranquil hill station known for its Buddhist culture and scenic beauty.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img22.png",
+    "featured": false
+  },
+  
+    {
+      "title": "Swiss Alps Expedition",
+      "city": "Zermatt",
+      "address": "Matterhorn Glacier Paradise, Switzerland",
+      "distance": 1500,
+      "price": 250,
+      "maxGroupSize": 10,
+      "desc": "Explore snow-capped mountains, glaciers, and alpine villages.",
+      "reviews": [],
+      "photo": "/tour-images/tour-img23.png",
+      "featured": true
+    },
+    {
+      "title": "Bali Beach Getaway",
+      "city": "Uluwatu",
+      "address": "Padang Padang Beach, Bali, Indonesia",
+      "distance": 2200,
+      "price": 180,
+      "maxGroupSize": 12,
+      "desc": "Tropical paradise with beach resorts, temples, and vibrant nightlife.",
+      "reviews": [],
+      "photo": "/tour-images/tour-img24.png",
+      "featured": true
+    },
+    {
+      "title": "Tokyo City Lights",
+      "city": "Tokyo",
+      "address": "Shibuya Crossing, Tokyo, Japan",
+      "distance": 3000,
+      "price": 210,
+      "maxGroupSize": 8,
+      "desc": "Modern skyscrapers, ancient temples, and tech-driven experiences.",
+      "reviews": [],
+      "photo": "/tour-images/tour-img25.png",
+      "featured": false
+    },
+    {
+      "title": "Santorini Sunset Escape",
+      "city": "Santorini",
+      "address": "Oia, Santorini, Greece",
+      "distance": 2700,
+      "price": 230,
+      "maxGroupSize": 6,
+      "desc": "Romantic sunsets, white-washed buildings, and Aegean views.",
+      "reviews": [],
+      "photo": "/tour-images/tour-img26.png",
+      "featured": true
+    },
+    {
+      "title": "Amazon Rainforest Trek",
+      "city": "Manaus",
+      "address": "Amazon River Basin, Brazil",
+      "distance": 4000,
+      "price": 270,
+      "maxGroupSize": 10,
+      "desc": "Guided jungle adventures with exotic wildlife and local tribes.",
+      "reviews": [],
+      "photo": "/tour-images/tour-img27.png",
+      "featured": false
+    }
+  
+  
+]
