@@ -35,15 +35,8 @@ A full-stack web application for booking tours and travel packages, built using 
 
 ---
 
-### 💡 If you uploaded multiple images (e.g., `Snapshot1.png`, `Snapshot2.png`), repeat the same for each:
 
-```md
-![Home Page](./Snapshot1.png)
-![Tour Details](./Snapshot2.png)
-![Booking Form](./Snapshot3.png)
-
-
-| ![Home]("Snapshot3.png") | ![Tour](./screenshots/tour-details.png) | ![Booking](./screenshots/booking-form.png) |
+| ![Home]("Snapshot1.png") | ![Tour](./screenshots/tour-details.png) | ![Booking](./screenshots/booking-form.png) |
 
 ---
 
