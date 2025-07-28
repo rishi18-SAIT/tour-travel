@@ -32,7 +32,7 @@ A full-stack web application for booking tours and travel packages, built using 
 
 | Home Page | Tour Details | Booking Form |
 |-----------|--------------|--------------|
-| ![Home](./screenshots/home.png) | ![Tour](./screenshots/tour-details.png) | ![Booking](./screenshots/booking-form.png) |
+| ![Home]("C:\Users\lenovo\OneDrive\Pictures\Screenshots\Snapshot3.png") | ![Tour](./screenshots/tour-details.png) | ![Booking](./screenshots/booking-form.png) |
 
 ---
 
