@@ -34,7 +34,6 @@ A full-stack web application for booking tours and travel packages, built using 
 |-----------|--------------|--------------|
 
 ---
-
 ![Homepage](./homepage.png)
 ![Booking Form](./booking-form.png)
 ![Admin Dashboard](./admin-dashboard.png)
