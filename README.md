@@ -1,59 +1,55 @@
-# 🧭 Tour and Travel Booking Website (MERN Stack)
+# 🧭 Tour & Travel Booking Website (MERN Stack)
 
-A full-stack web application for booking tours and travel packages, built using the MERN stack (MongoDB, Express.js, React, Node.js). This project enables users to browse tours, view details, register/login, and make bookings through an intuitive, responsive interface.
+<h1 align="center">✈️ Tour & Travel Booking Website – MERN Stack Project</h1>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-Express-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-Atlas-darkgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge" />
+</p>
 
-## 📌 Features
-
-- 🔐 User Authentication (JWT-based)
-- 🌍 Browse and search available tours
-- 📅 Book tours with custom dates and details
-- 📁 User profile with booking history
-- 📊 Admin dashboard to manage tours and users
-- 📱 Fully responsive UI (works on mobile and desktop)
-- 🛠️ RESTful API design with error handling
-
----
-
-## 🛠️ Tech Stack
-
-| Technology | Description |
-|------------|-------------|
-| **Frontend** | React, React Router, Axios, Bootstrap/CSS |
-| **Backend**  | Node.js, Express.js |
-| **Database** | MongoDB with Mongoose ODM |
-| **Authentication** | JWT (JSON Web Tokens) & bcrypt |
-| **Deployment** | Netlify (frontend), Render/Heroku (backend), MongoDB Atlas (database) |
+<p align="center">
+ 🌍 A full-stack web application to browse, book, and manage travel tours with authentication, booking history, and an admin dashboard.
+</p>
 
 ---
 
-## 📷 Screenshots
+## 🔗 Live Demo
 
-| Home Page | Tour Details | Booking Form |
-|-----------|--------------|--------------|
-
----
-### 📸 Screenshots
-
-![Homepage](Snapshot1.png)  
-*Homepage*
-
-![Booking Form](Snapshot3.png)  
-*Booking Form*
-
-![Admin Dashboard](Snapshot%204.png)  
-*Admin Dashboard*
-
-![Tour Details](Snapshot5%20(2).png)  
-*Tour Details*
+> 🌐 **Deployed URL**: [https://rishikesh-tour-management.netlify.app/home](https://rishikesh-tour-management.netlify.app/home)
 
 ---
 
-## 🧪 Installation & Setup
+## 🖼️ Preview
 
-### 1. Clone the repository
+<p align="center">
+  <img src="Snapshot1.png" width="250" alt="Homepage" />
+  <img src="Snapshot5%20(2).png" width="250" alt="Tour Details" />
+  <img src="Snapshot3.png" width="250" alt="Booking Form" />
+</p>
 
-```bash
-git clone https://github.com/your-username/tour-booking-mern.git
-cd tour-booking-mern
+---
+
+## 🛠 Tech Stack
+
+| Frontend | Backend | Database | Deployment |
+|----------|---------|----------|-------------|
+| React, React Router, Axios, Bootstrap/CSS | Node.js, Express.js | MongoDB Atlas (Mongoose ODM) | Netlify (Frontend), Render/Heroku (Backend) |
+
+---
+
+## ✨ Features
+
+- 🔐 Secure Authentication (JWT-based)
+- 🌍 Browse & Search Tours
+- 📅 Book tours with custom dates
+- 📁 User Profile with Booking History
+- 📊 Admin Dashboard to manage tours & users
+- 📱 Fully Responsive UI (Mobile + Desktop)
+- 🛠 RESTful API with Error Handling
+
+---
+
+## 📁 Project Structure
+
