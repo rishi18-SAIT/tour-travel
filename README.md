@@ -30,7 +30,7 @@ A full-stack web application for booking tours and travel packages, built using 
 
 ## 🌐 Deployed Link
 
-👉 [Live Demo](https://rishikesh-tour-management.netlify.app/home)
+👉 [Live Demo](rishikesh-tour-management.netlify.app)
 
 ---
 
