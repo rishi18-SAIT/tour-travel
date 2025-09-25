@@ -15,7 +15,7 @@ import bookingRoute from './routes/booking.js';
 dotenv.config();
 
 const app = express();
-const PORT = process.env.PORT || rishikesh-tour-management.netlify.app;
+const PORT = process.env.PORT || 5000;
 const corsOptions = {
   origin:true,
   credentials:true
